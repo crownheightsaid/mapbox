@@ -137,8 +137,7 @@
       "type": "Feature",
       "properties": {
         "fill": "#574c00",
-        "id": "nw",
-        "n": ""
+        "id": "nw"
       },
       "geometry": {
         "coordinates": [
